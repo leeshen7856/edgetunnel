@@ -11,7 +11,7 @@ let proxyIP = '';// 小白勿动，该地址并不影响你的网速，这是给
 //let sub = '';// 留空则显示原版内容
 let sub = 'vless-4ca.pages.dev';// 内置优选订阅生成器，可自行搭建 https://github.com/cmliu/WorkerVless2sub
 let subconverter = 'apiurl.v1.mk';// clash订阅转换后端，目前使用肥羊的订阅转换功能。自带虚假uuid和host订阅。
-let subconfig = "https://gist.githubusercontent.com/liuran001/5ca84f7def53c70b554d3f765ff86a33/raw/8cdf5aa96d3894e7487194da477eda012478a76b/config.yaml"; //订阅配置文件
+let subconfig = "https://raw.githubusercontent.com/As-Lucky/Lucky/main/Lucky-ClashVerge.yaml"; //订阅配置文件
 // The user name and password do not contain special characters
 // Setting the address will ignore proxyIP
 // Example:  user:pass@host:port  or  host:port
